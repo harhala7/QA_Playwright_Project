@@ -38,8 +38,4 @@ CI
 Tests are executed automatically using GitHub Actions on every push and pull request.
 On failure, Playwright artifacts (trace, screenshot, video) are available for debugging.
 
-
-👉 **Uwaga**: jeśli nazwa repo lub workflow się różni, badge URL musi się zgadzać dokładnie z:
-`.github/workflows/tests.yml`
-
 ---
